@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:_253503Kupreichyk.UI.ViewModels"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             xmlns:entities="clr-namespace:_253503Kupreichyk.Domain.Entities;assembly=253503Kupreichyk.Domain"
+             xmlns:converters="clr-namespace:_253503Kupreichyk.UI.ValueConverters"
+             x:DataType="models:PizzeriaPosesViewModel"
+             x:Class="_253503Kupreichyk.UI.Pages.Pizzeriaposes"
+             x:Name="PizzeriaPosesPage"
+             Title="Страница позиций в меню"
+             >
+    <ContentPage.Behaviors>
+        <toolkit:EventToCommandBehavior EventName="NavigatedTo"
+                                        Command="{Binding UpdatePizzaListCommand}"/>
+    </ContentPage.Behaviors>
+    <ContentPage.Resources>
+        <converters:EffectivenessToColorValueConverter x:Key="EffectivenessToColor"/>
+        <converters:IdToImage x:Key="ImageConverter"/>
+    </ContentPage.Resources>
+    <ContentPage.MenuBarItems>
+        <MenuBarItem Text="Добавить" BindingContext="{Binding Path=BindingContext, Source={x:Reference PizzeriaPosesPage}}">
+            <MenuFlyoutItem Text="Добавить позицию в меню" Command="{Binding AddPizzeriaPosCommand}" />
+            <MenuFlyoutItem Text="Добавить заказ к позиции" Command="{Binding AddOrderCommand}"/>
+        </MenuBarItem>
+    </ContentPage.MenuBarItems>
+    <ScrollView Padding="100,30,100,20">
+        <VerticalStackLayout>
+            <Picker
+                Title="Выбирите позицию меню"
+                ItemsSource="{Binding PizzeriaPoses}"
+                ItemDisplayBinding="{Binding Name}"
+                SelectedItem="{Binding SelectedPizzeriaPoses}"
+                HorizontalOptions="Center">
+                <Picker.Behaviors>
+                    <toolkit:EventToCommandBehavior EventName="SelectedIndexChanged"
+                                        Command="{Binding UpdateOrdersListCommand}"/>
+                </Picker.Behaviors>
+            </Picker>
+            <Label Text="{Binding SelectedPizzeriaPoses.CreateDate, StringFormat='Дата добаления позиции в меню: {0}'}" HorizontalOptions="Center" Margin="20"/>
+            <CollectionView ItemsSource="{Binding Orders}" HorizontalOptions="Center">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate x:DataType="entities:Order">
+                        <Frame Margin="5" BackgroundColor="{Binding TimeToComplite, Converter={StaticResource EffectivenessToColor}}" WidthRequest="400">
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding Source={RelativeSource AncestorType={x:Type models:PizzeriaPosesViewModel}}, 
+                                    Path=ShowDetailsCommand}" CommandParameter="{Binding}"/>
+                            </Frame.GestureRecognizers>
+                            <HorizontalStackLayout Spacing="20">
+                                <Image Source="{Binding Id, Converter={StaticResource ImageConverter}}" Aspect="AspectFit"
+                                       WidthRequest="50" HeightRequest="50"/>
+                                <Label Text="{Binding Name}"/>
+                            </HorizontalStackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

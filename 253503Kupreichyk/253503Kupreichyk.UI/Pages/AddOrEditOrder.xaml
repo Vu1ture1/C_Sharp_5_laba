@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:_253503Kupreichyk.UI.ViewModels"
+             xmlns:converters="clr-namespace:_253503Kupreichyk.UI.ValueConverters"
+             x:Class="_253503Kupreichyk.UI.Pages.AddOrEditOrder"
+             x:DataType="models:AddOrEditOrderViewModel"
+             Title="Страница действий с заказом"
+             >
+    <ContentPage.Resources>
+        <converters:ValueToBoolConverter x:Key="BoolConverter"/>
+    </ContentPage.Resources>
+    <ScrollView HorizontalOptions="Center" VerticalOptions="Center">
+        <VerticalStackLayout HorizontalOptions="Center" VerticalOptions="Center" Spacing="20">
+            <Button Text="Добавить аватарку покупателя" Command="{Binding AddImageCommand}" IsVisible="{Binding Image, Converter={StaticResource BoolConverter}}"/>
+            <Entry
+                Placeholder="Имя заказа:"
+                Text="{Binding CurrentOrder.Name}"
+                WidthRequest="200"/>
+            <Entry
+                Placeholder="Цена и пожелания к заказу:"
+                Text="{Binding CurrentOrder.Description}"
+                WidthRequest="300"
+                HeightRequest="200"/>
+            <HorizontalStackLayout Padding="5" Spacing="15">
+                <Label Text="Время до выполнения заказа в мин." VerticalOptions="Center"/>
+                <Entry 
+                    Placeholder="0"
+                    Text="{Binding CurrentOrder.TimeToComplite}"
+                    WidthRequest="200"/>
+            </HorizontalStackLayout>
+            <Button
+                Text="Ок"
+                Command="{Binding AddPowerCommand}"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

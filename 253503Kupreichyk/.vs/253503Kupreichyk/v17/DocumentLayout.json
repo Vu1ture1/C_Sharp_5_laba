@@ -1,0 +1,921 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\proj\\253503Kupreichyk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\valueconverters\\effectivenesstocolorvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\valueconverters\\effectivenesstocolorvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\pages\\orderdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\pages\\orderdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\pages\\pizzeriaposes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\pages\\pizzeriaposes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\valueconverters\\valuetoboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\valueconverters\\valuetoboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\pages\\addoreditpizzeriaposes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\pages\\addoreditpizzeriaposes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\pages\\addoreditorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\pages\\addoreditorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\pages\\orderdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\pages\\orderdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\pages\\addoreditorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\pages\\addoreditorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\viewmodels\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\viewmodels\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.persistence\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|solutionrelative:253503kupreichyk.persistence\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\viewmodels\\addoreditorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\viewmodels\\addoreditorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.persistence\\repository\\fakepizzeriaposrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|solutionrelative:253503kupreichyk.persistence\\repository\\fakepizzeriaposrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.persistence\\repository\\fakeordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|solutionrelative:253503kupreichyk.persistence\\repository\\fakeordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\viewmodels\\pizzeriaposesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\viewmodels\\pizzeriaposesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.application\\pizzeriaposusecases\\queries\\getallpizzeriaposquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|solutionrelative:253503kupreichyk.application\\pizzeriaposusecases\\queries\\getallpizzeriaposquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\253503kupreichyk.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\253503kupreichyk.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\valueconverters\\idtoimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\valueconverters\\idtoimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\pages\\addoreditpizzeriaposes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\pages\\addoreditpizzeriaposes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.persistence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|solutionrelative:253503kupreichyk.persistence\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.persistence\\repository\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|solutionrelative:253503kupreichyk.persistence\\repository\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\viewmodels\\addoreditpizzeriaposviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\viewmodels\\addoreditpizzeriaposviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\pages\\pizzeriaposes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\pages\\pizzeriaposes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|solutionrelative:253503kupreichyk.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\platforms\\android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|solutionrelative:253503kupreichyk.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:253503Kupreichyk.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.ui\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0821C8CA-057D-41B7-B13E-8FA72DB97EA7}|253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj|solutionrelative:253503kupreichyk.ui\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.persistence\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|solutionrelative:253503kupreichyk.persistence\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.persistence\\repository\\fakeunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E4D55B-B12E-42D0-889E-B5DB39884C8C}|253503Kupreichyk.Persistence\\253503Kupreichyk.Persistence.csproj|solutionrelative:253503kupreichyk.persistence\\repository\\fakeunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.application\\orderusecases\\commands\\addordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|solutionrelative:253503kupreichyk.application\\orderusecases\\commands\\addordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E82C42-E59A-41FF-B90E-3549A80AA671}|253503Kupreichyk.Domain\\253503Kupreichyk.Domain.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.domain\\entities\\pizzeriapos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E82C42-E59A-41FF-B90E-3549A80AA671}|253503Kupreichyk.Domain\\253503Kupreichyk.Domain.csproj|solutionrelative:253503kupreichyk.domain\\entities\\pizzeriapos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E82C42-E59A-41FF-B90E-3549A80AA671}|253503Kupreichyk.Domain\\253503Kupreichyk.Domain.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E82C42-E59A-41FF-B90E-3549A80AA671}|253503Kupreichyk.Domain\\253503Kupreichyk.Domain.csproj|solutionrelative:253503kupreichyk.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E82C42-E59A-41FF-B90E-3549A80AA671}|253503Kupreichyk.Domain\\253503Kupreichyk.Domain.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E82C42-E59A-41FF-B90E-3549A80AA671}|253503Kupreichyk.Domain\\253503Kupreichyk.Domain.csproj|solutionrelative:253503kupreichyk.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E82C42-E59A-41FF-B90E-3549A80AA671}|253503Kupreichyk.Domain\\253503Kupreichyk.Domain.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E82C42-E59A-41FF-B90E-3549A80AA671}|253503Kupreichyk.Domain\\253503Kupreichyk.Domain.csproj|solutionrelative:253503kupreichyk.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E82C42-E59A-41FF-B90E-3549A80AA671}|253503Kupreichyk.Domain\\253503Kupreichyk.Domain.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.domain\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E82C42-E59A-41FF-B90E-3549A80AA671}|253503Kupreichyk.Domain\\253503Kupreichyk.Domain.csproj|solutionrelative:253503kupreichyk.domain\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.application\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|solutionrelative:253503kupreichyk.application\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.application\\pizzeriaposusecases\\commands\\addpizzeriaposcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|solutionrelative:253503kupreichyk.application\\pizzeriaposusecases\\commands\\addpizzeriaposcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.application\\orderusecases\\queries\\getordersbygroupquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|solutionrelative:253503kupreichyk.application\\orderusecases\\queries\\getordersbygroupquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.application\\orderusecases\\queries\\getconnectionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|solutionrelative:253503kupreichyk.application\\orderusecases\\queries\\getconnectionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|d:\\proj\\253503kupreichyk\\253503kupreichyk.application\\orderusecases\\commands\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{813AC0B0-EC1C-4682-BBC5-9E3D8EC20BC0}|253503Kupreichyk.Application\\253503Kupreichyk.Application.csproj|solutionrelative:253503kupreichyk.application\\orderusecases\\commands\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzeriaPoses.xaml",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\PizzeriaPoses.xaml",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\Pages\\PizzeriaPoses.xaml",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\PizzeriaPoses.xaml",
+              "RelativeToolTip": "253503Kupreichyk.UI\\Pages\\PizzeriaPoses.xaml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAC8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T15:05:23.229Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PizzeriaPosesViewModel.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\ViewModels\\PizzeriaPosesViewModel.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\ViewModels\\PizzeriaPosesViewModel.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\ViewModels\\PizzeriaPosesViewModel.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\ViewModels\\PizzeriaPosesViewModel.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAWwDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:02:55.264Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddOrEditOrderViewModel.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\ViewModels\\AddOrEditOrderViewModel.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\ViewModels\\AddOrEditOrderViewModel.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\ViewModels\\AddOrEditOrderViewModel.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\ViewModels\\AddOrEditOrderViewModel.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwEwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:02:14.569Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddOrEditOrder.xaml",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\AddOrEditOrder.xaml",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\Pages\\AddOrEditOrder.xaml",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\AddOrEditOrder.xaml",
+              "RelativeToolTip": "253503Kupreichyk.UI\\Pages\\AddOrEditOrder.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T15:00:51.024Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\App.xaml",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\App.xaml",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\App.xaml",
+              "RelativeToolTip": "253503Kupreichyk.UI\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T15:07:46.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\AppShell.xaml.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\AppShell.xaml.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:10:59.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\AppShell.xaml",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\AppShell.xaml",
+              "RelativeToolTip": "253503Kupreichyk.UI\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T15:10:33.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EffectivenessToColorValueConverter.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\ValueConverters\\EffectivenessToColorValueConverter.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\ValueConverters\\EffectivenessToColorValueConverter.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\ValueConverters\\EffectivenessToColorValueConverter.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\ValueConverters\\EffectivenessToColorValueConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:02:00.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetails.xaml.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\OrderDetails.xaml.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\Pages\\OrderDetails.xaml.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\OrderDetails.xaml.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\Pages\\OrderDetails.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:01:27.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValueToBoolConverter.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\ValueConverters\\ValueToBoolConverter.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\ValueConverters\\ValueToBoolConverter.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\ValueConverters\\ValueToBoolConverter.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\ValueConverters\\ValueToBoolConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:02:09.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddOrEditPizzeriaPoses.xaml",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\AddOrEditPizzeriaPoses.xaml",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\Pages\\AddOrEditPizzeriaPoses.xaml",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\AddOrEditPizzeriaPoses.xaml",
+              "RelativeToolTip": "253503Kupreichyk.UI\\Pages\\AddOrEditPizzeriaPoses.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T15:01:18.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetails.xaml",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\OrderDetails.xaml",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\Pages\\OrderDetails.xaml",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\OrderDetails.xaml",
+              "RelativeToolTip": "253503Kupreichyk.UI\\Pages\\OrderDetails.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T15:05:06.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddOrEditOrder.xaml.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\AddOrEditOrder.xaml.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\Pages\\AddOrEditOrder.xaml.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\AddOrEditOrder.xaml.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\Pages\\AddOrEditOrder.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:01:09.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\ViewModels\\OrderDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\ViewModels\\OrderDetailsViewModel.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\ViewModels\\OrderDetailsViewModel.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\ViewModels\\OrderDetailsViewModel.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAArwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:02:39.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBInitializer.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\DBInitializer.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\DBInitializer.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\DBInitializer.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\DBInitializer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:03:20.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FakePizzeriaPosRepository.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\Repository\\FakePizzeriaPosRepository.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Persistence\\Repository\\FakePizzeriaPosRepository.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\Repository\\FakePizzeriaPosRepository.cs",
+              "RelativeToolTip": "253503Kupreichyk.Persistence\\Repository\\FakePizzeriaPosRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:58:37.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FakeOrdersRepository.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\Repository\\FakeOrdersRepository.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Persistence\\Repository\\FakeOrdersRepository.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\Repository\\FakeOrdersRepository.cs",
+              "RelativeToolTip": "253503Kupreichyk.Persistence\\Repository\\FakeOrdersRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:58:24.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\MauiProgram.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\MauiProgram.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\MauiProgram.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:04:07.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\Repository\\EfRepository.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Persistence\\Repository\\EfRepository.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\Repository\\EfRepository.cs",
+              "RelativeToolTip": "253503Kupreichyk.Persistence\\Repository\\EfRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAjwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:57:58.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllPizzeriaPosQuery.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\PizzeriaPosUseCases\\Queries\\GetAllPizzeriaPosQuery.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Application\\PizzeriaPosUseCases\\Queries\\GetAllPizzeriaPosQuery.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\PizzeriaPosUseCases\\Queries\\GetAllPizzeriaPosQuery.cs",
+              "RelativeToolTip": "253503Kupreichyk.Application\\PizzeriaPosUseCases\\Queries\\GetAllPizzeriaPosQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:51:38.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddOrEditPizzeriaPoses.xaml.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\AddOrEditPizzeriaPoses.xaml.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\Pages\\AddOrEditPizzeriaPoses.xaml.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\AddOrEditPizzeriaPoses.xaml.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\Pages\\AddOrEditPizzeriaPoses.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:01:19.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "253503Kupreichyk.UI.csproj",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj",
+              "RelativeToolTip": "253503Kupreichyk.UI\\253503Kupreichyk.UI.csproj",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T15:00:53.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IdToImage.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\ValueConverters\\IdToImage.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\ValueConverters\\IdToImage.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\ValueConverters\\IdToImage.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\ValueConverters\\IdToImage.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:02:04.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\DependencyInjection.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\DependencyInjection.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\DependencyInjection.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAApwBYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:03:31.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\appsettings.json",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\appsettings.json",
+              "RelativeToolTip": "253503Kupreichyk.UI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T15:19:58.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Persistence\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "253503Kupreichyk.Persistence\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:57:41.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EfUnitOfWork.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\Repository\\EfUnitOfWork.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Persistence\\Repository\\EfUnitOfWork.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\Repository\\EfUnitOfWork.cs",
+              "RelativeToolTip": "253503Kupreichyk.Persistence\\Repository\\EfUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:58:13.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddOrEditPizzeriaPosViewModel.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\ViewModels\\AddOrEditPizzeriaPosViewModel.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\ViewModels\\AddOrEditPizzeriaPosViewModel.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\ViewModels\\AddOrEditPizzeriaPosViewModel.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\ViewModels\\AddOrEditPizzeriaPosViewModel.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:02:28.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PizzeriaPoses.xaml.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\PizzeriaPoses.xaml.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\Pages\\PizzeriaPoses.xaml.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Pages\\PizzeriaPoses.xaml.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\Pages\\PizzeriaPoses.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:01:35.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\GlobalUsings.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\GlobalUsings.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:03:57.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Persistence\\DependencyInjection.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\DependencyInjection.cs",
+              "RelativeToolTip": "253503Kupreichyk.Persistence\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:58:54.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "253503Kupreichyk.UI\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-03T15:42:57.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "colors.xml",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "253503Kupreichyk.UI\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-03T15:43:42.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:42:50.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:42:47.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAkwNUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-03T15:41:25.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\MainPage.xaml.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\MainPage.xaml.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:12:08.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\MainPage.xaml",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\MainPage.xaml",
+              "RelativeToolTip": "253503Kupreichyk.UI\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T15:12:06.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "253503Kupreichyk.UI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T15:14:39.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\Platforms\\Windows\\App.xaml.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\Platforms\\Windows\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:06:01.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "253503Kupreichyk.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:51:37.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wCcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:06:03.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.UI\\App.xaml.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.UI\\App.xaml.cs",
+              "RelativeToolTip": "253503Kupreichyk.UI\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:03:14.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Persistence\\GlobalUsings.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\GlobalUsings.cs",
+              "RelativeToolTip": "253503Kupreichyk.Persistence\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:59:04.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FakeUnitOfWork.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\Repository\\FakeUnitOfWork.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Persistence\\Repository\\FakeUnitOfWork.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Persistence\\Repository\\FakeUnitOfWork.cs",
+              "RelativeToolTip": "253503Kupreichyk.Persistence\\Repository\\FakeUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:58:46.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Application\\GlobalUsings.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\GlobalUsings.cs",
+              "RelativeToolTip": "253503Kupreichyk.Application\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:51:48.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Domain\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Domain\\Abstractions\\IRepository.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Domain\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "253503Kupreichyk.Domain\\Abstractions\\IRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:46:05.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "253503Kupreichyk.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:46:10.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Domain\\Entities\\Entity.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "253503Kupreichyk.Domain\\Entities\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:46:30.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Domain\\Entities\\Order.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "253503Kupreichyk.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:46:33.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PizzeriaPos.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Domain\\Entities\\PizzeriaPos.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Domain\\Entities\\PizzeriaPos.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Domain\\Entities\\PizzeriaPos.cs",
+              "RelativeToolTip": "253503Kupreichyk.Domain\\Entities\\PizzeriaPos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:46:37.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AddOrderCommand.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\OrderUseCases\\Commands\\AddOrderCommand.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Application\\OrderUseCases\\Commands\\AddOrderCommand.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\OrderUseCases\\Commands\\AddOrderCommand.cs",
+              "RelativeToolTip": "253503Kupreichyk.Application\\OrderUseCases\\Commands\\AddOrderCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:51:06.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AddPizzeriaPosCommand.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\PizzeriaPosUseCases\\Commands\\AddPizzeriaPosCommand.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Application\\PizzeriaPosUseCases\\Commands\\AddPizzeriaPosCommand.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\PizzeriaPosUseCases\\Commands\\AddPizzeriaPosCommand.cs",
+              "RelativeToolTip": "253503Kupreichyk.Application\\PizzeriaPosUseCases\\Commands\\AddPizzeriaPosCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:51:33.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GetOrdersByGroupQuery.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\OrderUseCases\\Queries\\GetOrdersByGroupQuery.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Application\\OrderUseCases\\Queries\\GetOrdersByGroupQuery.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\OrderUseCases\\Queries\\GetOrdersByGroupQuery.cs",
+              "RelativeToolTip": "253503Kupreichyk.Application\\OrderUseCases\\Queries\\GetOrdersByGroupQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:51:25.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GetConnectionsQuery.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\OrderUseCases\\Queries\\GetConnectionsQuery.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Application\\OrderUseCases\\Queries\\GetConnectionsQuery.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\OrderUseCases\\Queries\\GetConnectionsQuery.cs",
+              "RelativeToolTip": "253503Kupreichyk.Application\\OrderUseCases\\Queries\\GetConnectionsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:51:21.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UpdateOrderCommand.cs",
+              "DocumentMoniker": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\OrderUseCases\\Commands\\UpdateOrderCommand.cs",
+              "RelativeDocumentMoniker": "253503Kupreichyk.Application\\OrderUseCases\\Commands\\UpdateOrderCommand.cs",
+              "ToolTip": "D:\\proj\\253503Kupreichyk\\253503Kupreichyk.Application\\OrderUseCases\\Commands\\UpdateOrderCommand.cs",
+              "RelativeToolTip": "253503Kupreichyk.Application\\OrderUseCases\\Commands\\UpdateOrderCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:51:16.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

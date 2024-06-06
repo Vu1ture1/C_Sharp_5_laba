@@ -1,0 +1,15 @@
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\bin\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Persistence.deps.json
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\bin\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Persistence.dll
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\bin\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Persistence.pdb
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\bin\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Domain.dll
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\bin\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Domain.pdb
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\obj\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Persistence.csproj.AssemblyReference.cache
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\obj\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\obj\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Persistence.AssemblyInfoInputs.cache
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\obj\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Persistence.AssemblyInfo.cs
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\obj\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Persistence.csproj.CoreCompileInputs.cache
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\obj\Debug\net8.0-windows10.0.19041.0\253503Ku.E2EBED54.Up2Date
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\obj\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Persistence.dll
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\obj\Debug\net8.0-windows10.0.19041.0\refint\253503Kupreichyk.Persistence.dll
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\obj\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Persistence.pdb
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\obj\Debug\net8.0-windows10.0.19041.0\ref\253503Kupreichyk.Persistence.dll

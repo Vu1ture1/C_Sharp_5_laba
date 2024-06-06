@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:models="clr-namespace:_253503Kupreichyk.UI.ViewModels"
+             x:Class="_253503Kupreichyk.UI.Pages.AddOrEditPizzeriaPosess"
+             x:DataType="models:AddOrEditPizzeriaPosViewModel"
+             Title="Страница действий с позицией в меню"
+             >
+
+
+    <VerticalStackLayout HorizontalOptions="Center" VerticalOptions="Center" Spacing="20">
+        <Entry
+            Placeholder="Имя позиции:"
+            Text="{Binding Name}"
+            WidthRequest="200"/>
+        <HorizontalStackLayout VerticalOptions="Center" Spacing="10" Padding="5">
+            <Label Text="Дата добавления в меню: " VerticalOptions="Center"/>
+            <DatePicker 
+            x:Name="PickerA"
+            Date="{Binding Creationdate}"
+            Format="dd/MM/yyyy"/>
+        </HorizontalStackLayout>
+        <Button
+            Text="Добавить"
+            Command="{Binding AddPizzeriaPosCommand}"/>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="_253503Kupreichyk.UI.Pages.OrderDetails"
+             xmlns:models="clr-namespace:_253503Kupreichyk.UI.ViewModels"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             xmlns:converters="clr-namespace:_253503Kupreichyk.UI.ValueConverters"
+             
+             x:DataType="models:OrderDetailsViewModel"
+             x:Name="OrdersDetailsPage"
+             Title="Страница описания заказа"
+             >
+    <ContentPage.Behaviors>
+        <toolkit:EventToCommandBehavior EventName="NavigatedTo"
+                                        Command="{Binding LoadPizzeriaPosesCommand}"/>
+    </ContentPage.Behaviors>
+    <ContentPage.Resources>
+        <converters:IdToImage x:Key="ImageConverter"/>
+    </ContentPage.Resources>
+    <ContentPage.MenuBarItems>
+        <MenuBarItem Text="Действия">
+            <MenuFlyoutItem Text="Изменить заказ" Command="{Binding EditCommand}"/>
+        </MenuBarItem>
+    </ContentPage.MenuBarItems>
+    <VerticalStackLayout Margin="10" HorizontalOptions="Center">
+        <Image Source="{Binding Order.Id, Converter={StaticResource ImageConverter}}" Aspect="AspectFit"
+                                       WidthRequest="150" HeightRequest="150"/>
+        <HorizontalStackLayout Spacing="10" Margin="0,20,0,0">
+            <Label FontSize="20" Text="Имя заказа: "/>
+            <Label FontSize="20" Text="{Binding Order.Name}"/>
+        </HorizontalStackLayout>
+        <HorizontalStackLayout Spacing="10">
+            <Label FontSize="20" Text="Цена и пожелания заказа: "/>
+            <Label FontSize="20" Text="{Binding Order.Description}"/>
+        </HorizontalStackLayout>
+        <HorizontalStackLayout Spacing="10">
+            <Label FontSize="20" Text="Время до выполнения заказа: "/>
+            <Label FontSize="20" Text="{Binding Order.TimeToComplite, StringFormat='{}{0} минут'}"/>
+        </HorizontalStackLayout>
+        <HorizontalStackLayout Spacing="10" VerticalOptions="End" Margin="40">
+            <Picker
+                ItemsSource="{Binding PizzeriaPoses}"
+                ItemDisplayBinding="{Binding Name}"
+                SelectedItem="{Binding SelectedPizzeriaPos}"
+                HorizontalOptions="Center"/>
+            <Button Text="Поменять пиццу заказа" Command="{Binding SubmitCommand}"/>
+        </HorizontalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>

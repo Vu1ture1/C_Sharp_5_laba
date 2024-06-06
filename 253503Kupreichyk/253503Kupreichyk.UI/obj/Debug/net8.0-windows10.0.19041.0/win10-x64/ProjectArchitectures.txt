@@ -1,0 +1,6 @@
+D:\proj\253503Kupreichyk\253503Kupreichyk.Application\253503Kupreichyk.Application.csproj;neutral
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\253503Kupreichyk.Domain.csproj;neutral
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\253503Kupreichyk.Domain.csproj;neutral
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\253503Kupreichyk.Domain.csproj;neutral
+D:\proj\253503Kupreichyk\253503Kupreichyk.Persistence\253503Kupreichyk.Persistence.csproj;neutral
+D:\proj\253503Kupreichyk\253503Kupreichyk.UI\253503Kupreichyk.UI.csproj;x64

@@ -1,0 +1,12 @@
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\bin\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Domain.deps.json
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\bin\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Domain.dll
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\bin\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Domain.pdb
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\obj\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Domain.csproj.AssemblyReference.cache
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\obj\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\obj\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Domain.AssemblyInfoInputs.cache
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\obj\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Domain.AssemblyInfo.cs
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\obj\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Domain.csproj.CoreCompileInputs.cache
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\obj\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Domain.dll
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\obj\Debug\net8.0-windows10.0.19041.0\refint\253503Kupreichyk.Domain.dll
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\obj\Debug\net8.0-windows10.0.19041.0\253503Kupreichyk.Domain.pdb
+D:\proj\253503Kupreichyk\253503Kupreichyk.Domain\obj\Debug\net8.0-windows10.0.19041.0\ref\253503Kupreichyk.Domain.dll

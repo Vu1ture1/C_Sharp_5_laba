@@ -1,0 +1,71 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _253503Kupreichyk.UI
+build_property.ProjectDir = D:\proj\253503Kupreichyk\253503Kupreichyk.UI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[D:/proj/253503Kupreichyk/253503Kupreichyk.UI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = _253503Kupreichyk.UI.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/proj/253503Kupreichyk/253503Kupreichyk.UI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = _253503Kupreichyk.UI.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/proj/253503Kupreichyk/253503Kupreichyk.UI/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = _253503Kupreichyk.UI.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/proj/253503Kupreichyk/253503Kupreichyk.UI/Pages/AddOrEditOrder.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = _253503Kupreichyk.UI.Pages.AddOrEditOrder.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AddOrEditOrder.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AddOrEditOrder.xaml
+
+[D:/proj/253503Kupreichyk/253503Kupreichyk.UI/Pages/AddOrEditPizzeriaPoses.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = _253503Kupreichyk.UI.Pages.AddOrEditPizzeriaPoses.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AddOrEditPizzeriaPoses.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AddOrEditPizzeriaPoses.xaml
+
+[D:/proj/253503Kupreichyk/253503Kupreichyk.UI/Pages/OrderDetails.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = _253503Kupreichyk.UI.Pages.OrderDetails.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\OrderDetails.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\OrderDetails.xaml
+
+[D:/proj/253503Kupreichyk/253503Kupreichyk.UI/Pages/PizzeriaPoses.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = _253503Kupreichyk.UI.Pages.PizzeriaPoses.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\PizzeriaPoses.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\PizzeriaPoses.xaml
+
+[D:/proj/253503Kupreichyk/253503Kupreichyk.UI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = _253503Kupreichyk.UI.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/proj/253503Kupreichyk/253503Kupreichyk.UI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = _253503Kupreichyk.UI.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

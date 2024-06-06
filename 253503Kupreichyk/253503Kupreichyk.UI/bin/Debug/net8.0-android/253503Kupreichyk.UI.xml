@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>253503Kupreichyk.UI</name>
+    </assembly>
+    <members>
+        <member name="T:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.Pizzeriapos">
+            <inheritdoc cref="F:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.pizzeriapos"/>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.Update">
+            <inheritdoc cref="F:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.update"/>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.CurrentOrder">
+            <inheritdoc cref="F:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.currentOrder"/>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.Image">
+            <inheritdoc cref="F:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.image"/>
+        </member>
+        <member name="F:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.addPowerCommand">
+            <summary>The backing field for <see cref="P:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.AddPowerCommand"/>.</summary>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.AddPowerCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.AddPower"/>.</summary>
+        </member>
+        <member name="F:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.addImageCommand">
+            <summary>The backing field for <see cref="P:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.AddImageCommand"/>.</summary>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.AddImageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:_253503Kupreichyk.UI.ViewModels.AddOrEditOrderViewModel.AddImage"/>.</summary>
+        </member>
+        <member name="T:_253503Kupreichyk.UI.ViewModels.AddOrEditPizzeriaPosViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.AddOrEditPizzeriaPosViewModel.Name">
+            <inheritdoc cref="F:_253503Kupreichyk.UI.ViewModels.AddOrEditPizzeriaPosViewModel.name"/>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.AddOrEditPizzeriaPosViewModel.Creationdate">
+            <inheritdoc cref="F:_253503Kupreichyk.UI.ViewModels.AddOrEditPizzeriaPosViewModel.creationdate"/>
+        </member>
+        <member name="F:_253503Kupreichyk.UI.ViewModels.AddOrEditPizzeriaPosViewModel.addPizzeriaPosCommand">
+            <summary>The backing field for <see cref="P:_253503Kupreichyk.UI.ViewModels.AddOrEditPizzeriaPosViewModel.AddPizzeriaPosCommand"/>.</summary>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.AddOrEditPizzeriaPosViewModel.AddPizzeriaPosCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:_253503Kupreichyk.UI.ViewModels.AddOrEditPizzeriaPosViewModel.AddPizzeriaPos"/>.</summary>
+        </member>
+        <member name="T:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.Order">
+            <inheritdoc cref="F:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.order"/>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.SelectedPizzeriaPos">
+            <inheritdoc cref="F:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.selectedPizzeriaPos"/>
+        </member>
+        <member name="F:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.editCommand">
+            <summary>The backing field for <see cref="P:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.EditCommand"/>.</summary>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.EditCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.Edit"/>.</summary>
+        </member>
+        <member name="F:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.submitCommand">
+            <summary>The backing field for <see cref="P:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.SubmitCommand"/>.</summary>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.SubmitCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.Submit"/>.</summary>
+        </member>
+        <member name="F:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.loadPizzeriaPosesCommand">
+            <summary>The backing field for <see cref="P:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.LoadPizzeriaPosesCommand"/>.</summary>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.LoadPizzeriaPosesCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:_253503Kupreichyk.UI.ViewModels.OrderDetailsViewModel.LoadPizzeriaPoses"/>.</summary>
+        </member>
+        <member name="T:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.Orders">
+            <inheritdoc cref="F:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel._orders"/>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.SelectedPizzeriaPoses">
+            <inheritdoc cref="F:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.selectedPizzeriaPoses"/>
+        </member>
+        <member name="F:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.updatePizzaListCommand">
+            <summary>The backing field for <see cref="P:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.UpdatePizzaListCommand"/>.</summary>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.UpdatePizzaListCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.UpdatePizzaList"/>.</summary>
+        </member>
+        <member name="F:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.updateOrdersListCommand">
+            <summary>The backing field for <see cref="P:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.UpdateOrdersListCommand"/>.</summary>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.UpdateOrdersListCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.UpdateOrdersList"/>.</summary>
+        </member>
+        <member name="F:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.showDetailsCommand">
+            <summary>The backing field for <see cref="P:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.ShowDetailsCommand"/>.</summary>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.ShowDetailsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.ShowDetails(_253503Kupreichyk.Domain.Entities.Order)"/>.</summary>
+        </member>
+        <member name="F:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.addPizzeriaPosCommand">
+            <summary>The backing field for <see cref="P:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.AddPizzeriaPosCommand"/>.</summary>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.AddPizzeriaPosCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.AddPizzeriaPos"/>.</summary>
+        </member>
+        <member name="F:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.addOrderCommand">
+            <summary>The backing field for <see cref="P:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.AddOrderCommand"/>.</summary>
+        </member>
+        <member name="P:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.AddOrderCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:_253503Kupreichyk.UI.ViewModels.PizzeriaPosesViewModel.AddOrder"/>.</summary>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Button.TextColorTo(Microsoft.Maui.Controls.Button,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_DatePicker.TextColorTo(Microsoft.Maui.Controls.DatePicker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Editor.TextColorTo(Microsoft.Maui.Controls.Editor,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Entry.TextColorTo(Microsoft.Maui.Controls.Entry,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_InputView.TextColorTo(Microsoft.Maui.Controls.InputView,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Label.TextColorTo(Microsoft.Maui.Controls.Label,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Picker.TextColorTo(Microsoft.Maui.Controls.Picker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_RadioButton.TextColorTo(Microsoft.Maui.Controls.RadioButton,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_SearchBar.TextColorTo(Microsoft.Maui.Controls.SearchBar,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_TimePicker.TextColorTo(Microsoft.Maui.Controls.TimePicker,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing,System.Threading.CancellationToken)">
+            <summary>
+            Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
+            </summary>
+            <param name = "element"></param>
+            <param name = "color">The target color to animate the <see cref = "P:Microsoft.Maui.ITextStyle.TextColor"/> to</param>
+            <param name = "rate">The time, in milliseconds, between the frames of the animation</param>
+            <param name = "length">The duration, in milliseconds, of the animation</param>
+            <param name = "easing">The easing function to be used in the animation</param>
+            <param name = "token"><see cref = "T:System.Threading.CancellationToken"/></param>
+            <returns>Value indicating if the animation completed successfully or not</returns>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Pizzeriapos">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Pizzeriapos" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Update">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Update" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.CurrentOrder">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "CurrentOrder" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Image">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Image" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Name">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Name" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Creationdate">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Creationdate" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Order">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Order" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SelectedPizzeriaPos">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SelectedPizzeriaPos" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Orders">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Orders" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SelectedPizzeriaPoses">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SelectedPizzeriaPoses" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Pizzeriapos">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Pizzeriapos" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Update">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Update" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.CurrentOrder">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "CurrentOrder" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Image">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Image" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Name">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Name" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Creationdate">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Creationdate" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Order">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Order" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SelectedPizzeriaPos">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SelectedPizzeriaPos" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Orders">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Orders" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SelectedPizzeriaPoses">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SelectedPizzeriaPoses" generated properties.</summary>
+        </member>
+    </members>
+</doc>
